@@ -3,5 +3,10 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    color: aliceblue;
-  }
+    color: aliceblue;  
+}
+
+.text-color{
+  color: aliceblue !important;
+  font-size: 80px;
+  
